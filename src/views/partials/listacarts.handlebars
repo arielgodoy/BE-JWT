@@ -1,0 +1,29 @@
+<!-- carrito.handlebars -->
+
+{{#if cartData}}
+  {{#each cartData}}
+    <p>ID del Carrito: <a href="http://localhost:8080/api/carts/{{this._id}}">{{this._id}}</a></p>
+    {{!-- {{#if this.products.length}}
+      <ul>
+        {{#each this.products}}
+          <li>
+            <strong>Producto ID:</strong> {{this.productId}} |
+            <strong>Cantidad:</strong> {{this.quantity}} |
+            <strong>Item ID:</strong> {{this._id}}
+          </li>
+        {{/each}}
+      </ul>
+    {{else}}
+      <p>No hay productos en este carrito.</p>
+    {{/if}} --}}
+    <hr>
+  {{/each}}
+{{else}}
+  <p>No se encontraron datos de carritos.</p>
+{{/if}}
+
+<div class="."></div>
+
+<script>
+  console.log("datos de los carritos:", {{jsonStringify cartData}});
+</script>

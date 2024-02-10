@@ -1,0 +1,5002 @@
+[
+  {
+    "title": "Nuevo nombre de producto1",
+    "description": "Nueva descripción",
+    "code": "NEWCODE1",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto2",
+    "description": "Nueva descripción",
+    "code": "NEWCODE2",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto3",
+    "description": "Nueva descripción",
+    "code": "NEWCODE3",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto4",
+    "description": "Nueva descripción",
+    "code": "NEWCODE4",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria38"
+  },
+  {
+    "title": "Nuevo nombre de producto5",
+    "description": "Nueva descripción",
+    "code": "NEWCODE5",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto6",
+    "description": "Nueva descripción",
+    "code": "NEWCODE6",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto7",
+    "description": "Nueva descripción",
+    "code": "NEWCODE7",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto8",
+    "description": "Nueva descripción",
+    "code": "NEWCODE8",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto9",
+    "description": "Nueva descripción",
+    "code": "NEWCODE9",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto10",
+    "description": "Nueva descripción",
+    "code": "NEWCODE10",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto11",
+    "description": "Nueva descripción",
+    "code": "NEWCODE11",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria29"
+  },
+  {
+    "title": "Nuevo nombre de producto12",
+    "description": "Nueva descripción",
+    "code": "NEWCODE12",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto13",
+    "description": "Nueva descripción",
+    "code": "NEWCODE13",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria14"
+  },
+  {
+    "title": "Nuevo nombre de producto14",
+    "description": "Nueva descripción",
+    "code": "NEWCODE14",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto15",
+    "description": "Nueva descripción",
+    "code": "NEWCODE15",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto16",
+    "description": "Nueva descripción",
+    "code": "NEWCODE16",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria46"
+  },
+  {
+    "title": "Nuevo nombre de producto17",
+    "description": "Nueva descripción",
+    "code": "NEWCODE17",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto18",
+    "description": "Nueva descripción",
+    "code": "NEWCODE18",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto19",
+    "description": "Nueva descripción",
+    "code": "NEWCODE19",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto20",
+    "description": "Nueva descripción",
+    "code": "NEWCODE20",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto21",
+    "description": "Nueva descripción",
+    "code": "NEWCODE21",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto22",
+    "description": "Nueva descripción",
+    "code": "NEWCODE22",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto23",
+    "description": "Nueva descripción",
+    "code": "NEWCODE23",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto24",
+    "description": "Nueva descripción",
+    "code": "NEWCODE24",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto25",
+    "description": "Nueva descripción",
+    "code": "NEWCODE25",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria11"
+  },
+  {
+    "title": "Nuevo nombre de producto26",
+    "description": "Nueva descripción",
+    "code": "NEWCODE26",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria45"
+  },
+  {
+    "title": "Nuevo nombre de producto27",
+    "description": "Nueva descripción",
+    "code": "NEWCODE27",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto28",
+    "description": "Nueva descripción",
+    "code": "NEWCODE28",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto29",
+    "description": "Nueva descripción",
+    "code": "NEWCODE29",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria9"
+  },
+  {
+    "title": "Nuevo nombre de producto30",
+    "description": "Nueva descripción",
+    "code": "NEWCODE30",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto31",
+    "description": "Nueva descripción",
+    "code": "NEWCODE31",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto32",
+    "description": "Nueva descripción",
+    "code": "NEWCODE32",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria7"
+  },
+  {
+    "title": "Nuevo nombre de producto33",
+    "description": "Nueva descripción",
+    "code": "NEWCODE33",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto34",
+    "description": "Nueva descripción",
+    "code": "NEWCODE34",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto35",
+    "description": "Nueva descripción",
+    "code": "NEWCODE35",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto36",
+    "description": "Nueva descripción",
+    "code": "NEWCODE36",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto37",
+    "description": "Nueva descripción",
+    "code": "NEWCODE37",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria17"
+  },
+  {
+    "title": "Nuevo nombre de producto38",
+    "description": "Nueva descripción",
+    "code": "NEWCODE38",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto39",
+    "description": "Nueva descripción",
+    "code": "NEWCODE39",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto40",
+    "description": "Nueva descripción",
+    "code": "NEWCODE40",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto41",
+    "description": "Nueva descripción",
+    "code": "NEWCODE41",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto42",
+    "description": "Nueva descripción",
+    "code": "NEWCODE42",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto43",
+    "description": "Nueva descripción",
+    "code": "NEWCODE43",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto44",
+    "description": "Nueva descripción",
+    "code": "NEWCODE44",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto45",
+    "description": "Nueva descripción",
+    "code": "NEWCODE45",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto46",
+    "description": "Nueva descripción",
+    "code": "NEWCODE46",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria45"
+  },
+  {
+    "title": "Nuevo nombre de producto47",
+    "description": "Nueva descripción",
+    "code": "NEWCODE47",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto48",
+    "description": "Nueva descripción",
+    "code": "NEWCODE48",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto49",
+    "description": "Nueva descripción",
+    "code": "NEWCODE49",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto50",
+    "description": "Nueva descripción",
+    "code": "NEWCODE50",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto51",
+    "description": "Nueva descripción",
+    "code": "NEWCODE51",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto52",
+    "description": "Nueva descripción",
+    "code": "NEWCODE52",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto53",
+    "description": "Nueva descripción",
+    "code": "NEWCODE53",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto54",
+    "description": "Nueva descripción",
+    "code": "NEWCODE54",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto55",
+    "description": "Nueva descripción",
+    "code": "NEWCODE55",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto56",
+    "description": "Nueva descripción",
+    "code": "NEWCODE56",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto57",
+    "description": "Nueva descripción",
+    "code": "NEWCODE57",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto58",
+    "description": "Nueva descripción",
+    "code": "NEWCODE58",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto59",
+    "description": "Nueva descripción",
+    "code": "NEWCODE59",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto60",
+    "description": "Nueva descripción",
+    "code": "NEWCODE60",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto61",
+    "description": "Nueva descripción",
+    "code": "NEWCODE61",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria25"
+  },
+  {
+    "title": "Nuevo nombre de producto62",
+    "description": "Nueva descripción",
+    "code": "NEWCODE62",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto63",
+    "description": "Nueva descripción",
+    "code": "NEWCODE63",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto64",
+    "description": "Nueva descripción",
+    "code": "NEWCODE64",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto65",
+    "description": "Nueva descripción",
+    "code": "NEWCODE65",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto66",
+    "description": "Nueva descripción",
+    "code": "NEWCODE66",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto67",
+    "description": "Nueva descripción",
+    "code": "NEWCODE67",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto68",
+    "description": "Nueva descripción",
+    "code": "NEWCODE68",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria7"
+  },
+  {
+    "title": "Nuevo nombre de producto69",
+    "description": "Nueva descripción",
+    "code": "NEWCODE69",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto70",
+    "description": "Nueva descripción",
+    "code": "NEWCODE70",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria30"
+  },
+  {
+    "title": "Nuevo nombre de producto71",
+    "description": "Nueva descripción",
+    "code": "NEWCODE71",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto72",
+    "description": "Nueva descripción",
+    "code": "NEWCODE72",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto73",
+    "description": "Nueva descripción",
+    "code": "NEWCODE73",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria30"
+  },
+  {
+    "title": "Nuevo nombre de producto74",
+    "description": "Nueva descripción",
+    "code": "NEWCODE74",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto75",
+    "description": "Nueva descripción",
+    "code": "NEWCODE75",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto76",
+    "description": "Nueva descripción",
+    "code": "NEWCODE76",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto77",
+    "description": "Nueva descripción",
+    "code": "NEWCODE77",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria17"
+  },
+  {
+    "title": "Nuevo nombre de producto78",
+    "description": "Nueva descripción",
+    "code": "NEWCODE78",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto79",
+    "description": "Nueva descripción",
+    "code": "NEWCODE79",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto80",
+    "description": "Nueva descripción",
+    "code": "NEWCODE80",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto81",
+    "description": "Nueva descripción",
+    "code": "NEWCODE81",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto82",
+    "description": "Nueva descripción",
+    "code": "NEWCODE82",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto83",
+    "description": "Nueva descripción",
+    "code": "NEWCODE83",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria45"
+  },
+  {
+    "title": "Nuevo nombre de producto84",
+    "description": "Nueva descripción",
+    "code": "NEWCODE84",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto85",
+    "description": "Nueva descripción",
+    "code": "NEWCODE85",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria9"
+  },
+  {
+    "title": "Nuevo nombre de producto86",
+    "description": "Nueva descripción",
+    "code": "NEWCODE86",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria48"
+  },
+  {
+    "title": "Nuevo nombre de producto87",
+    "description": "Nueva descripción",
+    "code": "NEWCODE87",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto88",
+    "description": "Nueva descripción",
+    "code": "NEWCODE88",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria30"
+  },
+  {
+    "title": "Nuevo nombre de producto89",
+    "description": "Nueva descripción",
+    "code": "NEWCODE89",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto90",
+    "description": "Nueva descripción",
+    "code": "NEWCODE90",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto91",
+    "description": "Nueva descripción",
+    "code": "NEWCODE91",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria45"
+  },
+  {
+    "title": "Nuevo nombre de producto92",
+    "description": "Nueva descripción",
+    "code": "NEWCODE92",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto93",
+    "description": "Nueva descripción",
+    "code": "NEWCODE93",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto94",
+    "description": "Nueva descripción",
+    "code": "NEWCODE94",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria30"
+  },
+  {
+    "title": "Nuevo nombre de producto95",
+    "description": "Nueva descripción",
+    "code": "NEWCODE95",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto96",
+    "description": "Nueva descripción",
+    "code": "NEWCODE96",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto97",
+    "description": "Nueva descripción",
+    "code": "NEWCODE97",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto98",
+    "description": "Nueva descripción",
+    "code": "NEWCODE98",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto99",
+    "description": "Nueva descripción",
+    "code": "NEWCODE99",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria17"
+  },
+  {
+    "title": "Nuevo nombre de producto100",
+    "description": "Nueva descripción",
+    "code": "NEWCODE100",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria9"
+  },
+  {
+    "title": "Nuevo nombre de producto101",
+    "description": "Nueva descripción",
+    "code": "NEWCODE101",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto102",
+    "description": "Nueva descripción",
+    "code": "NEWCODE102",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto103",
+    "description": "Nueva descripción",
+    "code": "NEWCODE103",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto104",
+    "description": "Nueva descripción",
+    "code": "NEWCODE104",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto105",
+    "description": "Nueva descripción",
+    "code": "NEWCODE105",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto106",
+    "description": "Nueva descripción",
+    "code": "NEWCODE106",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto107",
+    "description": "Nueva descripción",
+    "code": "NEWCODE107",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto108",
+    "description": "Nueva descripción",
+    "code": "NEWCODE108",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto109",
+    "description": "Nueva descripción",
+    "code": "NEWCODE109",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto110",
+    "description": "Nueva descripción",
+    "code": "NEWCODE110",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria29"
+  },
+  {
+    "title": "Nuevo nombre de producto111",
+    "description": "Nueva descripción",
+    "code": "NEWCODE111",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto112",
+    "description": "Nueva descripción",
+    "code": "NEWCODE112",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto113",
+    "description": "Nueva descripción",
+    "code": "NEWCODE113",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto114",
+    "description": "Nueva descripción",
+    "code": "NEWCODE114",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto115",
+    "description": "Nueva descripción",
+    "code": "NEWCODE115",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto116",
+    "description": "Nueva descripción",
+    "code": "NEWCODE116",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria19"
+  },
+  {
+    "title": "Nuevo nombre de producto117",
+    "description": "Nueva descripción",
+    "code": "NEWCODE117",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto118",
+    "description": "Nueva descripción",
+    "code": "NEWCODE118",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto119",
+    "description": "Nueva descripción",
+    "code": "NEWCODE119",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto120",
+    "description": "Nueva descripción",
+    "code": "NEWCODE120",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto121",
+    "description": "Nueva descripción",
+    "code": "NEWCODE121",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria38"
+  },
+  {
+    "title": "Nuevo nombre de producto122",
+    "description": "Nueva descripción",
+    "code": "NEWCODE122",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto123",
+    "description": "Nueva descripción",
+    "code": "NEWCODE123",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria19"
+  },
+  {
+    "title": "Nuevo nombre de producto124",
+    "description": "Nueva descripción",
+    "code": "NEWCODE124",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto125",
+    "description": "Nueva descripción",
+    "code": "NEWCODE125",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto126",
+    "description": "Nueva descripción",
+    "code": "NEWCODE126",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto127",
+    "description": "Nueva descripción",
+    "code": "NEWCODE127",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto128",
+    "description": "Nueva descripción",
+    "code": "NEWCODE128",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto129",
+    "description": "Nueva descripción",
+    "code": "NEWCODE129",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto130",
+    "description": "Nueva descripción",
+    "code": "NEWCODE130",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto131",
+    "description": "Nueva descripción",
+    "code": "NEWCODE131",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto132",
+    "description": "Nueva descripción",
+    "code": "NEWCODE132",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto133",
+    "description": "Nueva descripción",
+    "code": "NEWCODE133",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto134",
+    "description": "Nueva descripción",
+    "code": "NEWCODE134",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto135",
+    "description": "Nueva descripción",
+    "code": "NEWCODE135",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto136",
+    "description": "Nueva descripción",
+    "code": "NEWCODE136",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto137",
+    "description": "Nueva descripción",
+    "code": "NEWCODE137",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto138",
+    "description": "Nueva descripción",
+    "code": "NEWCODE138",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto139",
+    "description": "Nueva descripción",
+    "code": "NEWCODE139",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto140",
+    "description": "Nueva descripción",
+    "code": "NEWCODE140",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria13"
+  },
+  {
+    "title": "Nuevo nombre de producto141",
+    "description": "Nueva descripción",
+    "code": "NEWCODE141",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto142",
+    "description": "Nueva descripción",
+    "code": "NEWCODE142",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto143",
+    "description": "Nueva descripción",
+    "code": "NEWCODE143",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto144",
+    "description": "Nueva descripción",
+    "code": "NEWCODE144",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto145",
+    "description": "Nueva descripción",
+    "code": "NEWCODE145",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto146",
+    "description": "Nueva descripción",
+    "code": "NEWCODE146",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto147",
+    "description": "Nueva descripción",
+    "code": "NEWCODE147",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto148",
+    "description": "Nueva descripción",
+    "code": "NEWCODE148",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto149",
+    "description": "Nueva descripción",
+    "code": "NEWCODE149",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto150",
+    "description": "Nueva descripción",
+    "code": "NEWCODE150",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria24"
+  },
+  {
+    "title": "Nuevo nombre de producto151",
+    "description": "Nueva descripción",
+    "code": "NEWCODE151",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria48"
+  },
+  {
+    "title": "Nuevo nombre de producto152",
+    "description": "Nueva descripción",
+    "code": "NEWCODE152",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto153",
+    "description": "Nueva descripción",
+    "code": "NEWCODE153",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto154",
+    "description": "Nueva descripción",
+    "code": "NEWCODE154",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto155",
+    "description": "Nueva descripción",
+    "code": "NEWCODE155",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto156",
+    "description": "Nueva descripción",
+    "code": "NEWCODE156",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria25"
+  },
+  {
+    "title": "Nuevo nombre de producto157",
+    "description": "Nueva descripción",
+    "code": "NEWCODE157",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto158",
+    "description": "Nueva descripción",
+    "code": "NEWCODE158",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto159",
+    "description": "Nueva descripción",
+    "code": "NEWCODE159",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria45"
+  },
+  {
+    "title": "Nuevo nombre de producto160",
+    "description": "Nueva descripción",
+    "code": "NEWCODE160",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto161",
+    "description": "Nueva descripción",
+    "code": "NEWCODE161",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto162",
+    "description": "Nueva descripción",
+    "code": "NEWCODE162",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria25"
+  },
+  {
+    "title": "Nuevo nombre de producto163",
+    "description": "Nueva descripción",
+    "code": "NEWCODE163",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto164",
+    "description": "Nueva descripción",
+    "code": "NEWCODE164",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto165",
+    "description": "Nueva descripción",
+    "code": "NEWCODE165",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto166",
+    "description": "Nueva descripción",
+    "code": "NEWCODE166",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto167",
+    "description": "Nueva descripción",
+    "code": "NEWCODE167",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto168",
+    "description": "Nueva descripción",
+    "code": "NEWCODE168",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto169",
+    "description": "Nueva descripción",
+    "code": "NEWCODE169",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto170",
+    "description": "Nueva descripción",
+    "code": "NEWCODE170",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto171",
+    "description": "Nueva descripción",
+    "code": "NEWCODE171",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto172",
+    "description": "Nueva descripción",
+    "code": "NEWCODE172",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria14"
+  },
+  {
+    "title": "Nuevo nombre de producto173",
+    "description": "Nueva descripción",
+    "code": "NEWCODE173",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto174",
+    "description": "Nueva descripción",
+    "code": "NEWCODE174",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto175",
+    "description": "Nueva descripción",
+    "code": "NEWCODE175",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria46"
+  },
+  {
+    "title": "Nuevo nombre de producto176",
+    "description": "Nueva descripción",
+    "code": "NEWCODE176",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto177",
+    "description": "Nueva descripción",
+    "code": "NEWCODE177",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto178",
+    "description": "Nueva descripción",
+    "code": "NEWCODE178",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto179",
+    "description": "Nueva descripción",
+    "code": "NEWCODE179",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto180",
+    "description": "Nueva descripción",
+    "code": "NEWCODE180",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto181",
+    "description": "Nueva descripción",
+    "code": "NEWCODE181",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto182",
+    "description": "Nueva descripción",
+    "code": "NEWCODE182",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto183",
+    "description": "Nueva descripción",
+    "code": "NEWCODE183",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto184",
+    "description": "Nueva descripción",
+    "code": "NEWCODE184",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto185",
+    "description": "Nueva descripción",
+    "code": "NEWCODE185",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto186",
+    "description": "Nueva descripción",
+    "code": "NEWCODE186",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto187",
+    "description": "Nueva descripción",
+    "code": "NEWCODE187",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto188",
+    "description": "Nueva descripción",
+    "code": "NEWCODE188",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria24"
+  },
+  {
+    "title": "Nuevo nombre de producto189",
+    "description": "Nueva descripción",
+    "code": "NEWCODE189",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto190",
+    "description": "Nueva descripción",
+    "code": "NEWCODE190",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto191",
+    "description": "Nueva descripción",
+    "code": "NEWCODE191",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria9"
+  },
+  {
+    "title": "Nuevo nombre de producto192",
+    "description": "Nueva descripción",
+    "code": "NEWCODE192",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto193",
+    "description": "Nueva descripción",
+    "code": "NEWCODE193",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto194",
+    "description": "Nueva descripción",
+    "code": "NEWCODE194",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto195",
+    "description": "Nueva descripción",
+    "code": "NEWCODE195",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria38"
+  },
+  {
+    "title": "Nuevo nombre de producto196",
+    "description": "Nueva descripción",
+    "code": "NEWCODE196",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto197",
+    "description": "Nueva descripción",
+    "code": "NEWCODE197",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria17"
+  },
+  {
+    "title": "Nuevo nombre de producto198",
+    "description": "Nueva descripción",
+    "code": "NEWCODE198",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria14"
+  },
+  {
+    "title": "Nuevo nombre de producto199",
+    "description": "Nueva descripción",
+    "code": "NEWCODE199",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto200",
+    "description": "Nueva descripción",
+    "code": "NEWCODE200",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto201",
+    "description": "Nueva descripción",
+    "code": "NEWCODE201",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto202",
+    "description": "Nueva descripción",
+    "code": "NEWCODE202",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto203",
+    "description": "Nueva descripción",
+    "code": "NEWCODE203",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto204",
+    "description": "Nueva descripción",
+    "code": "NEWCODE204",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto205",
+    "description": "Nueva descripción",
+    "code": "NEWCODE205",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria24"
+  },
+  {
+    "title": "Nuevo nombre de producto206",
+    "description": "Nueva descripción",
+    "code": "NEWCODE206",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto207",
+    "description": "Nueva descripción",
+    "code": "NEWCODE207",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto208",
+    "description": "Nueva descripción",
+    "code": "NEWCODE208",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto209",
+    "description": "Nueva descripción",
+    "code": "NEWCODE209",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto210",
+    "description": "Nueva descripción",
+    "code": "NEWCODE210",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria13"
+  },
+  {
+    "title": "Nuevo nombre de producto211",
+    "description": "Nueva descripción",
+    "code": "NEWCODE211",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto212",
+    "description": "Nueva descripción",
+    "code": "NEWCODE212",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto213",
+    "description": "Nueva descripción",
+    "code": "NEWCODE213",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria24"
+  },
+  {
+    "title": "Nuevo nombre de producto214",
+    "description": "Nueva descripción",
+    "code": "NEWCODE214",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto215",
+    "description": "Nueva descripción",
+    "code": "NEWCODE215",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto216",
+    "description": "Nueva descripción",
+    "code": "NEWCODE216",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto217",
+    "description": "Nueva descripción",
+    "code": "NEWCODE217",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto218",
+    "description": "Nueva descripción",
+    "code": "NEWCODE218",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto219",
+    "description": "Nueva descripción",
+    "code": "NEWCODE219",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto220",
+    "description": "Nueva descripción",
+    "code": "NEWCODE220",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto221",
+    "description": "Nueva descripción",
+    "code": "NEWCODE221",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto222",
+    "description": "Nueva descripción",
+    "code": "NEWCODE222",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria24"
+  },
+  {
+    "title": "Nuevo nombre de producto223",
+    "description": "Nueva descripción",
+    "code": "NEWCODE223",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto224",
+    "description": "Nueva descripción",
+    "code": "NEWCODE224",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto225",
+    "description": "Nueva descripción",
+    "code": "NEWCODE225",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto226",
+    "description": "Nueva descripción",
+    "code": "NEWCODE226",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto227",
+    "description": "Nueva descripción",
+    "code": "NEWCODE227",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto228",
+    "description": "Nueva descripción",
+    "code": "NEWCODE228",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto229",
+    "description": "Nueva descripción",
+    "code": "NEWCODE229",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria9"
+  },
+  {
+    "title": "Nuevo nombre de producto230",
+    "description": "Nueva descripción",
+    "code": "NEWCODE230",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria45"
+  },
+  {
+    "title": "Nuevo nombre de producto231",
+    "description": "Nueva descripción",
+    "code": "NEWCODE231",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto232",
+    "description": "Nueva descripción",
+    "code": "NEWCODE232",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto233",
+    "description": "Nueva descripción",
+    "code": "NEWCODE233",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria25"
+  },
+  {
+    "title": "Nuevo nombre de producto234",
+    "description": "Nueva descripción",
+    "code": "NEWCODE234",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria29"
+  },
+  {
+    "title": "Nuevo nombre de producto235",
+    "description": "Nueva descripción",
+    "code": "NEWCODE235",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto236",
+    "description": "Nueva descripción",
+    "code": "NEWCODE236",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto237",
+    "description": "Nueva descripción",
+    "code": "NEWCODE237",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto238",
+    "description": "Nueva descripción",
+    "code": "NEWCODE238",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto239",
+    "description": "Nueva descripción",
+    "code": "NEWCODE239",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto240",
+    "description": "Nueva descripción",
+    "code": "NEWCODE240",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto241",
+    "description": "Nueva descripción",
+    "code": "NEWCODE241",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto242",
+    "description": "Nueva descripción",
+    "code": "NEWCODE242",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto243",
+    "description": "Nueva descripción",
+    "code": "NEWCODE243",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto244",
+    "description": "Nueva descripción",
+    "code": "NEWCODE244",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto245",
+    "description": "Nueva descripción",
+    "code": "NEWCODE245",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto246",
+    "description": "Nueva descripción",
+    "code": "NEWCODE246",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto247",
+    "description": "Nueva descripción",
+    "code": "NEWCODE247",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto248",
+    "description": "Nueva descripción",
+    "code": "NEWCODE248",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto249",
+    "description": "Nueva descripción",
+    "code": "NEWCODE249",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto250",
+    "description": "Nueva descripción",
+    "code": "NEWCODE250",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria24"
+  },
+  {
+    "title": "Nuevo nombre de producto251",
+    "description": "Nueva descripción",
+    "code": "NEWCODE251",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto252",
+    "description": "Nueva descripción",
+    "code": "NEWCODE252",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto253",
+    "description": "Nueva descripción",
+    "code": "NEWCODE253",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto254",
+    "description": "Nueva descripción",
+    "code": "NEWCODE254",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto255",
+    "description": "Nueva descripción",
+    "code": "NEWCODE255",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria17"
+  },
+  {
+    "title": "Nuevo nombre de producto256",
+    "description": "Nueva descripción",
+    "code": "NEWCODE256",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto257",
+    "description": "Nueva descripción",
+    "code": "NEWCODE257",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto258",
+    "description": "Nueva descripción",
+    "code": "NEWCODE258",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto259",
+    "description": "Nueva descripción",
+    "code": "NEWCODE259",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto260",
+    "description": "Nueva descripción",
+    "code": "NEWCODE260",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria38"
+  },
+  {
+    "title": "Nuevo nombre de producto261",
+    "description": "Nueva descripción",
+    "code": "NEWCODE261",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto262",
+    "description": "Nueva descripción",
+    "code": "NEWCODE262",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto263",
+    "description": "Nueva descripción",
+    "code": "NEWCODE263",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto264",
+    "description": "Nueva descripción",
+    "code": "NEWCODE264",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto265",
+    "description": "Nueva descripción",
+    "code": "NEWCODE265",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto266",
+    "description": "Nueva descripción",
+    "code": "NEWCODE266",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto267",
+    "description": "Nueva descripción",
+    "code": "NEWCODE267",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria48"
+  },
+  {
+    "title": "Nuevo nombre de producto268",
+    "description": "Nueva descripción",
+    "code": "NEWCODE268",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto269",
+    "description": "Nueva descripción",
+    "code": "NEWCODE269",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto270",
+    "description": "Nueva descripción",
+    "code": "NEWCODE270",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto271",
+    "description": "Nueva descripción",
+    "code": "NEWCODE271",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto272",
+    "description": "Nueva descripción",
+    "code": "NEWCODE272",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto273",
+    "description": "Nueva descripción",
+    "code": "NEWCODE273",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto274",
+    "description": "Nueva descripción",
+    "code": "NEWCODE274",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto275",
+    "description": "Nueva descripción",
+    "code": "NEWCODE275",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto276",
+    "description": "Nueva descripción",
+    "code": "NEWCODE276",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto277",
+    "description": "Nueva descripción",
+    "code": "NEWCODE277",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto278",
+    "description": "Nueva descripción",
+    "code": "NEWCODE278",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto279",
+    "description": "Nueva descripción",
+    "code": "NEWCODE279",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto280",
+    "description": "Nueva descripción",
+    "code": "NEWCODE280",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto281",
+    "description": "Nueva descripción",
+    "code": "NEWCODE281",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto282",
+    "description": "Nueva descripción",
+    "code": "NEWCODE282",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto283",
+    "description": "Nueva descripción",
+    "code": "NEWCODE283",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto284",
+    "description": "Nueva descripción",
+    "code": "NEWCODE284",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto285",
+    "description": "Nueva descripción",
+    "code": "NEWCODE285",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto286",
+    "description": "Nueva descripción",
+    "code": "NEWCODE286",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto287",
+    "description": "Nueva descripción",
+    "code": "NEWCODE287",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto288",
+    "description": "Nueva descripción",
+    "code": "NEWCODE288",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria45"
+  },
+  {
+    "title": "Nuevo nombre de producto289",
+    "description": "Nueva descripción",
+    "code": "NEWCODE289",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto290",
+    "description": "Nueva descripción",
+    "code": "NEWCODE290",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto291",
+    "description": "Nueva descripción",
+    "code": "NEWCODE291",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto292",
+    "description": "Nueva descripción",
+    "code": "NEWCODE292",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto293",
+    "description": "Nueva descripción",
+    "code": "NEWCODE293",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto294",
+    "description": "Nueva descripción",
+    "code": "NEWCODE294",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto295",
+    "description": "Nueva descripción",
+    "code": "NEWCODE295",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto296",
+    "description": "Nueva descripción",
+    "code": "NEWCODE296",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto297",
+    "description": "Nueva descripción",
+    "code": "NEWCODE297",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto298",
+    "description": "Nueva descripción",
+    "code": "NEWCODE298",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto299",
+    "description": "Nueva descripción",
+    "code": "NEWCODE299",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto300",
+    "description": "Nueva descripción",
+    "code": "NEWCODE300",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria48"
+  },
+  {
+    "title": "Nuevo nombre de producto301",
+    "description": "Nueva descripción",
+    "code": "NEWCODE301",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto302",
+    "description": "Nueva descripción",
+    "code": "NEWCODE302",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto303",
+    "description": "Nueva descripción",
+    "code": "NEWCODE303",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto304",
+    "description": "Nueva descripción",
+    "code": "NEWCODE304",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto305",
+    "description": "Nueva descripción",
+    "code": "NEWCODE305",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto306",
+    "description": "Nueva descripción",
+    "code": "NEWCODE306",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto307",
+    "description": "Nueva descripción",
+    "code": "NEWCODE307",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto308",
+    "description": "Nueva descripción",
+    "code": "NEWCODE308",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto309",
+    "description": "Nueva descripción",
+    "code": "NEWCODE309",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto310",
+    "description": "Nueva descripción",
+    "code": "NEWCODE310",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto311",
+    "description": "Nueva descripción",
+    "code": "NEWCODE311",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto312",
+    "description": "Nueva descripción",
+    "code": "NEWCODE312",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto313",
+    "description": "Nueva descripción",
+    "code": "NEWCODE313",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto314",
+    "description": "Nueva descripción",
+    "code": "NEWCODE314",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto315",
+    "description": "Nueva descripción",
+    "code": "NEWCODE315",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto316",
+    "description": "Nueva descripción",
+    "code": "NEWCODE316",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto317",
+    "description": "Nueva descripción",
+    "code": "NEWCODE317",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto318",
+    "description": "Nueva descripción",
+    "code": "NEWCODE318",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto319",
+    "description": "Nueva descripción",
+    "code": "NEWCODE319",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto320",
+    "description": "Nueva descripción",
+    "code": "NEWCODE320",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto321",
+    "description": "Nueva descripción",
+    "code": "NEWCODE321",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto322",
+    "description": "Nueva descripción",
+    "code": "NEWCODE322",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto323",
+    "description": "Nueva descripción",
+    "code": "NEWCODE323",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto324",
+    "description": "Nueva descripción",
+    "code": "NEWCODE324",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto325",
+    "description": "Nueva descripción",
+    "code": "NEWCODE325",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto326",
+    "description": "Nueva descripción",
+    "code": "NEWCODE326",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto327",
+    "description": "Nueva descripción",
+    "code": "NEWCODE327",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto328",
+    "description": "Nueva descripción",
+    "code": "NEWCODE328",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto329",
+    "description": "Nueva descripción",
+    "code": "NEWCODE329",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto330",
+    "description": "Nueva descripción",
+    "code": "NEWCODE330",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto331",
+    "description": "Nueva descripción",
+    "code": "NEWCODE331",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria46"
+  },
+  {
+    "title": "Nuevo nombre de producto332",
+    "description": "Nueva descripción",
+    "code": "NEWCODE332",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria30"
+  },
+  {
+    "title": "Nuevo nombre de producto333",
+    "description": "Nueva descripción",
+    "code": "NEWCODE333",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria25"
+  },
+  {
+    "title": "Nuevo nombre de producto334",
+    "description": "Nueva descripción",
+    "code": "NEWCODE334",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto335",
+    "description": "Nueva descripción",
+    "code": "NEWCODE335",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria13"
+  },
+  {
+    "title": "Nuevo nombre de producto336",
+    "description": "Nueva descripción",
+    "code": "NEWCODE336",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria29"
+  },
+  {
+    "title": "Nuevo nombre de producto337",
+    "description": "Nueva descripción",
+    "code": "NEWCODE337",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto338",
+    "description": "Nueva descripción",
+    "code": "NEWCODE338",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto339",
+    "description": "Nueva descripción",
+    "code": "NEWCODE339",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto340",
+    "description": "Nueva descripción",
+    "code": "NEWCODE340",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria13"
+  },
+  {
+    "title": "Nuevo nombre de producto341",
+    "description": "Nueva descripción",
+    "code": "NEWCODE341",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria11"
+  },
+  {
+    "title": "Nuevo nombre de producto342",
+    "description": "Nueva descripción",
+    "code": "NEWCODE342",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto343",
+    "description": "Nueva descripción",
+    "code": "NEWCODE343",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto344",
+    "description": "Nueva descripción",
+    "code": "NEWCODE344",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto345",
+    "description": "Nueva descripción",
+    "code": "NEWCODE345",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto346",
+    "description": "Nueva descripción",
+    "code": "NEWCODE346",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria46"
+  },
+  {
+    "title": "Nuevo nombre de producto347",
+    "description": "Nueva descripción",
+    "code": "NEWCODE347",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto348",
+    "description": "Nueva descripción",
+    "code": "NEWCODE348",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto349",
+    "description": "Nueva descripción",
+    "code": "NEWCODE349",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto350",
+    "description": "Nueva descripción",
+    "code": "NEWCODE350",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria16"
+  },
+  {
+    "title": "Nuevo nombre de producto351",
+    "description": "Nueva descripción",
+    "code": "NEWCODE351",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto352",
+    "description": "Nueva descripción",
+    "code": "NEWCODE352",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto353",
+    "description": "Nueva descripción",
+    "code": "NEWCODE353",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto354",
+    "description": "Nueva descripción",
+    "code": "NEWCODE354",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto355",
+    "description": "Nueva descripción",
+    "code": "NEWCODE355",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria7"
+  },
+  {
+    "title": "Nuevo nombre de producto356",
+    "description": "Nueva descripción",
+    "code": "NEWCODE356",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto357",
+    "description": "Nueva descripción",
+    "code": "NEWCODE357",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto358",
+    "description": "Nueva descripción",
+    "code": "NEWCODE358",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto359",
+    "description": "Nueva descripción",
+    "code": "NEWCODE359",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto360",
+    "description": "Nueva descripción",
+    "code": "NEWCODE360",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto361",
+    "description": "Nueva descripción",
+    "code": "NEWCODE361",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto362",
+    "description": "Nueva descripción",
+    "code": "NEWCODE362",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto363",
+    "description": "Nueva descripción",
+    "code": "NEWCODE363",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto364",
+    "description": "Nueva descripción",
+    "code": "NEWCODE364",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria46"
+  },
+  {
+    "title": "Nuevo nombre de producto365",
+    "description": "Nueva descripción",
+    "code": "NEWCODE365",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto366",
+    "description": "Nueva descripción",
+    "code": "NEWCODE366",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto367",
+    "description": "Nueva descripción",
+    "code": "NEWCODE367",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria38"
+  },
+  {
+    "title": "Nuevo nombre de producto368",
+    "description": "Nueva descripción",
+    "code": "NEWCODE368",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto369",
+    "description": "Nueva descripción",
+    "code": "NEWCODE369",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria7"
+  },
+  {
+    "title": "Nuevo nombre de producto370",
+    "description": "Nueva descripción",
+    "code": "NEWCODE370",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto371",
+    "description": "Nueva descripción",
+    "code": "NEWCODE371",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto372",
+    "description": "Nueva descripción",
+    "code": "NEWCODE372",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto373",
+    "description": "Nueva descripción",
+    "code": "NEWCODE373",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto374",
+    "description": "Nueva descripción",
+    "code": "NEWCODE374",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria41"
+  },
+  {
+    "title": "Nuevo nombre de producto375",
+    "description": "Nueva descripción",
+    "code": "NEWCODE375",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto376",
+    "description": "Nueva descripción",
+    "code": "NEWCODE376",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto377",
+    "description": "Nueva descripción",
+    "code": "NEWCODE377",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto378",
+    "description": "Nueva descripción",
+    "code": "NEWCODE378",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto379",
+    "description": "Nueva descripción",
+    "code": "NEWCODE379",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto380",
+    "description": "Nueva descripción",
+    "code": "NEWCODE380",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto381",
+    "description": "Nueva descripción",
+    "code": "NEWCODE381",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto382",
+    "description": "Nueva descripción",
+    "code": "NEWCODE382",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria45"
+  },
+  {
+    "title": "Nuevo nombre de producto383",
+    "description": "Nueva descripción",
+    "code": "NEWCODE383",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto384",
+    "description": "Nueva descripción",
+    "code": "NEWCODE384",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto385",
+    "description": "Nueva descripción",
+    "code": "NEWCODE385",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria17"
+  },
+  {
+    "title": "Nuevo nombre de producto386",
+    "description": "Nueva descripción",
+    "code": "NEWCODE386",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto387",
+    "description": "Nueva descripción",
+    "code": "NEWCODE387",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria13"
+  },
+  {
+    "title": "Nuevo nombre de producto388",
+    "description": "Nueva descripción",
+    "code": "NEWCODE388",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto389",
+    "description": "Nueva descripción",
+    "code": "NEWCODE389",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto390",
+    "description": "Nueva descripción",
+    "code": "NEWCODE390",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto391",
+    "description": "Nueva descripción",
+    "code": "NEWCODE391",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto392",
+    "description": "Nueva descripción",
+    "code": "NEWCODE392",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto393",
+    "description": "Nueva descripción",
+    "code": "NEWCODE393",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria25"
+  },
+  {
+    "title": "Nuevo nombre de producto394",
+    "description": "Nueva descripción",
+    "code": "NEWCODE394",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria25"
+  },
+  {
+    "title": "Nuevo nombre de producto395",
+    "description": "Nueva descripción",
+    "code": "NEWCODE395",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto396",
+    "description": "Nueva descripción",
+    "code": "NEWCODE396",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto397",
+    "description": "Nueva descripción",
+    "code": "NEWCODE397",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria48"
+  },
+  {
+    "title": "Nuevo nombre de producto398",
+    "description": "Nueva descripción",
+    "code": "NEWCODE398",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto399",
+    "description": "Nueva descripción",
+    "code": "NEWCODE399",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria19"
+  },
+  {
+    "title": "Nuevo nombre de producto400",
+    "description": "Nueva descripción",
+    "code": "NEWCODE400",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria14"
+  },
+  {
+    "title": "Nuevo nombre de producto401",
+    "description": "Nueva descripción",
+    "code": "NEWCODE401",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto402",
+    "description": "Nueva descripción",
+    "code": "NEWCODE402",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria46"
+  },
+  {
+    "title": "Nuevo nombre de producto403",
+    "description": "Nueva descripción",
+    "code": "NEWCODE403",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto404",
+    "description": "Nueva descripción",
+    "code": "NEWCODE404",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria25"
+  },
+  {
+    "title": "Nuevo nombre de producto405",
+    "description": "Nueva descripción",
+    "code": "NEWCODE405",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria17"
+  },
+  {
+    "title": "Nuevo nombre de producto406",
+    "description": "Nueva descripción",
+    "code": "NEWCODE406",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto407",
+    "description": "Nueva descripción",
+    "code": "NEWCODE407",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto408",
+    "description": "Nueva descripción",
+    "code": "NEWCODE408",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto409",
+    "description": "Nueva descripción",
+    "code": "NEWCODE409",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto410",
+    "description": "Nueva descripción",
+    "code": "NEWCODE410",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria9"
+  },
+  {
+    "title": "Nuevo nombre de producto411",
+    "description": "Nueva descripción",
+    "code": "NEWCODE411",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto412",
+    "description": "Nueva descripción",
+    "code": "NEWCODE412",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto413",
+    "description": "Nueva descripción",
+    "code": "NEWCODE413",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto414",
+    "description": "Nueva descripción",
+    "code": "NEWCODE414",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria48"
+  },
+  {
+    "title": "Nuevo nombre de producto415",
+    "description": "Nueva descripción",
+    "code": "NEWCODE415",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto416",
+    "description": "Nueva descripción",
+    "code": "NEWCODE416",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto417",
+    "description": "Nueva descripción",
+    "code": "NEWCODE417",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria48"
+  },
+  {
+    "title": "Nuevo nombre de producto418",
+    "description": "Nueva descripción",
+    "code": "NEWCODE418",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto419",
+    "description": "Nueva descripción",
+    "code": "NEWCODE419",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto420",
+    "description": "Nueva descripción",
+    "code": "NEWCODE420",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto421",
+    "description": "Nueva descripción",
+    "code": "NEWCODE421",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria42"
+  },
+  {
+    "title": "Nuevo nombre de producto422",
+    "description": "Nueva descripción",
+    "code": "NEWCODE422",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria19"
+  },
+  {
+    "title": "Nuevo nombre de producto423",
+    "description": "Nueva descripción",
+    "code": "NEWCODE423",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria50"
+  },
+  {
+    "title": "Nuevo nombre de producto424",
+    "description": "Nueva descripción",
+    "code": "NEWCODE424",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto425",
+    "description": "Nueva descripción",
+    "code": "NEWCODE425",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto426",
+    "description": "Nueva descripción",
+    "code": "NEWCODE426",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto427",
+    "description": "Nueva descripción",
+    "code": "NEWCODE427",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto428",
+    "description": "Nueva descripción",
+    "code": "NEWCODE428",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto429",
+    "description": "Nueva descripción",
+    "code": "NEWCODE429",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto430",
+    "description": "Nueva descripción",
+    "code": "NEWCODE430",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria14"
+  },
+  {
+    "title": "Nuevo nombre de producto431",
+    "description": "Nueva descripción",
+    "code": "NEWCODE431",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto432",
+    "description": "Nueva descripción",
+    "code": "NEWCODE432",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto433",
+    "description": "Nueva descripción",
+    "code": "NEWCODE433",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto434",
+    "description": "Nueva descripción",
+    "code": "NEWCODE434",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto435",
+    "description": "Nueva descripción",
+    "code": "NEWCODE435",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto436",
+    "description": "Nueva descripción",
+    "code": "NEWCODE436",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto437",
+    "description": "Nueva descripción",
+    "code": "NEWCODE437",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto438",
+    "description": "Nueva descripción",
+    "code": "NEWCODE438",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria21"
+  },
+  {
+    "title": "Nuevo nombre de producto439",
+    "description": "Nueva descripción",
+    "code": "NEWCODE439",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto440",
+    "description": "Nueva descripción",
+    "code": "NEWCODE440",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto441",
+    "description": "Nueva descripción",
+    "code": "NEWCODE441",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria19"
+  },
+  {
+    "title": "Nuevo nombre de producto442",
+    "description": "Nueva descripción",
+    "code": "NEWCODE442",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Nuevo nombre de producto443",
+    "description": "Nueva descripción",
+    "code": "NEWCODE443",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto444",
+    "description": "Nueva descripción",
+    "code": "NEWCODE444",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto445",
+    "description": "Nueva descripción",
+    "code": "NEWCODE445",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto446",
+    "description": "Nueva descripción",
+    "code": "NEWCODE446",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto447",
+    "description": "Nueva descripción",
+    "code": "NEWCODE447",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria24"
+  },
+  {
+    "title": "Nuevo nombre de producto448",
+    "description": "Nueva descripción",
+    "code": "NEWCODE448",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto449",
+    "description": "Nueva descripción",
+    "code": "NEWCODE449",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto450",
+    "description": "Nueva descripción",
+    "code": "NEWCODE450",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria18"
+  },
+  {
+    "title": "Nuevo nombre de producto451",
+    "description": "Nueva descripción",
+    "code": "NEWCODE451",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto452",
+    "description": "Nueva descripción",
+    "code": "NEWCODE452",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria13"
+  },
+  {
+    "title": "Nuevo nombre de producto453",
+    "description": "Nueva descripción",
+    "code": "NEWCODE453",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto454",
+    "description": "Nueva descripción",
+    "code": "NEWCODE454",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto455",
+    "description": "Nueva descripción",
+    "code": "NEWCODE455",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto456",
+    "description": "Nueva descripción",
+    "code": "NEWCODE456",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria35"
+  },
+  {
+    "title": "Nuevo nombre de producto457",
+    "description": "Nueva descripción",
+    "code": "NEWCODE457",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria37"
+  },
+  {
+    "title": "Nuevo nombre de producto458",
+    "description": "Nueva descripción",
+    "code": "NEWCODE458",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria36"
+  },
+  {
+    "title": "Nuevo nombre de producto459",
+    "description": "Nueva descripción",
+    "code": "NEWCODE459",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto460",
+    "description": "Nueva descripción",
+    "code": "NEWCODE460",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto461",
+    "description": "Nueva descripción",
+    "code": "NEWCODE461",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto462",
+    "description": "Nueva descripción",
+    "code": "NEWCODE462",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria8"
+  },
+  {
+    "title": "Nuevo nombre de producto463",
+    "description": "Nueva descripción",
+    "code": "NEWCODE463",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria32"
+  },
+  {
+    "title": "Nuevo nombre de producto464",
+    "description": "Nueva descripción",
+    "code": "NEWCODE464",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria27"
+  },
+  {
+    "title": "Nuevo nombre de producto465",
+    "description": "Nueva descripción",
+    "code": "NEWCODE465",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria20"
+  },
+  {
+    "title": "Nuevo nombre de producto466",
+    "description": "Nueva descripción",
+    "code": "NEWCODE466",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria28"
+  },
+  {
+    "title": "Nuevo nombre de producto467",
+    "description": "Nueva descripción",
+    "code": "NEWCODE467",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria47"
+  },
+  {
+    "title": "Nuevo nombre de producto468",
+    "description": "Nueva descripción",
+    "code": "NEWCODE468",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria10"
+  },
+  {
+    "title": "Nuevo nombre de producto469",
+    "description": "Nueva descripción",
+    "code": "NEWCODE469",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Nuevo nombre de producto470",
+    "description": "Nueva descripción",
+    "code": "NEWCODE470",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria13"
+  },
+  {
+    "title": "Nuevo nombre de producto471",
+    "description": "Nueva descripción",
+    "code": "NEWCODE471",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto472",
+    "description": "Nueva descripción",
+    "code": "NEWCODE472",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria49"
+  },
+  {
+    "title": "Nuevo nombre de producto473",
+    "description": "Nueva descripción",
+    "code": "NEWCODE473",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto474",
+    "description": "Nueva descripción",
+    "code": "NEWCODE474",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Nuevo nombre de producto475",
+    "description": "Nueva descripción",
+    "code": "NEWCODE475",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto476",
+    "description": "Nueva descripción",
+    "code": "NEWCODE476",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria14"
+  },
+  {
+    "title": "Nuevo nombre de producto477",
+    "description": "Nueva descripción",
+    "code": "NEWCODE477",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Nuevo nombre de producto478",
+    "description": "Nueva descripción",
+    "code": "NEWCODE478",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria6"
+  },
+  {
+    "title": "Nuevo nombre de producto479",
+    "description": "Nueva descripción",
+    "code": "NEWCODE479",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria29"
+  },
+  {
+    "title": "Nuevo nombre de producto480",
+    "description": "Nueva descripción",
+    "code": "NEWCODE480",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria44"
+  },
+  {
+    "title": "Nuevo nombre de producto481",
+    "description": "Nueva descripción",
+    "code": "NEWCODE481",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  },
+  {
+    "title": "Nuevo nombre de producto482",
+    "description": "Nueva descripción",
+    "code": "NEWCODE482",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria15"
+  },
+  {
+    "title": "Nuevo nombre de producto483",
+    "description": "Nueva descripción",
+    "code": "NEWCODE483",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria46"
+  },
+  {
+    "title": "Nuevo nombre de producto484",
+    "description": "Nueva descripción",
+    "code": "NEWCODE484",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria9"
+  },
+  {
+    "title": "Nuevo nombre de producto485",
+    "description": "Nueva descripción",
+    "code": "NEWCODE485",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria12"
+  },
+  {
+    "title": "Nuevo nombre de producto486",
+    "description": "Nueva descripción",
+    "code": "NEWCODE486",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria39"
+  },
+  {
+    "title": "Nuevo nombre de producto487",
+    "description": "Nueva descripción",
+    "code": "NEWCODE487",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria38"
+  },
+  {
+    "title": "Nuevo nombre de producto488",
+    "description": "Nueva descripción",
+    "code": "NEWCODE488",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto489",
+    "description": "Nueva descripción",
+    "code": "NEWCODE489",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria31"
+  },
+  {
+    "title": "Nuevo nombre de producto490",
+    "description": "Nueva descripción",
+    "code": "NEWCODE490",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria33"
+  },
+  {
+    "title": "Nuevo nombre de producto491",
+    "description": "Nueva descripción",
+    "code": "NEWCODE491",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria46"
+  },
+  {
+    "title": "Nuevo nombre de producto492",
+    "description": "Nueva descripción",
+    "code": "NEWCODE492",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Nuevo nombre de producto493",
+    "description": "Nueva descripción",
+    "code": "NEWCODE493",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria43"
+  },
+  {
+    "title": "Nuevo nombre de producto494",
+    "description": "Nueva descripción",
+    "code": "NEWCODE494",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria23"
+  },
+  {
+    "title": "Nuevo nombre de producto495",
+    "description": "Nueva descripción",
+    "code": "NEWCODE495",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria30"
+  },
+  {
+    "title": "Nuevo nombre de producto496",
+    "description": "Nueva descripción",
+    "code": "NEWCODE496",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria26"
+  },
+  {
+    "title": "Nuevo nombre de producto497",
+    "description": "Nueva descripción",
+    "code": "NEWCODE497",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria40"
+  },
+  {
+    "title": "Nuevo nombre de producto498",
+    "description": "Nueva descripción",
+    "code": "NEWCODE498",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria34"
+  },
+  {
+    "title": "Nuevo nombre de producto499",
+    "description": "Nueva descripción",
+    "code": "NEWCODE499",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria24"
+  },
+  {
+    "title": "Nuevo nombre de producto500",
+    "description": "Nueva descripción",
+    "code": "NEWCODE500",
+    "price": 29.99,
+    "thumbnail": "nueva_imagen.jpg",
+    "stock": 75,
+    "status": true,
+    "category": "Categoria22"
+  }
+]

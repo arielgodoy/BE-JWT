@@ -1,0 +1,36 @@
+### post de crea carrito
+POST http://localhost:8080/api/carts/
+
+
+### get todos los carros
+GET http://localhost:8080/api/carts/
+
+
+### get del json carritoo por id
+GET http://localhost:8080/api/carts/65adbc4c2a742301cc903125
+Accept: application/json
+X-Requested-With: XMLHttpRequest
+
+### get del json carritoo por id
+GET http://localhost:8080/api/carts/65adbc4c2a742301cc903125
+Accept: application/json
+X-Requested-With: XMLHttpRequest
+
+### agrega un producto al carrito
+PUT  http://localhost:8080/api/carts/65adbc4c2a742301cc903125
+Content-Type: application/json;charset=UTF-8
+
+{
+  "products": [
+    {
+      "productId": "65ac68571b5161f4c4defe78",
+      "quantity": 30
+    }
+    // Otros productos actualizados...
+  ]
+}
+
+
+### elimina productos del carrito
+DELETE http://localhost:8080/api/carts/65abeea22db0826be574dbcb/products/65ac289852af7c4047de3068
+

@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        {{#if email}}
+          <li class="nav-item">
+            <p class="nav-link">Usuario: {{email}}</p>
+          </li>
+        {{else}}
+          <li class="nav-item">
+            <p class="nav-link">Usuario: Anónimo </p>
+          </li>
+        {{/if}}
+
+        <li class="nav-item">
+          <a class="nav-link" href="/products">Productos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/add">Agregar Productos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/realTimeProducts">Real Time Products</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/carts">Listado de Carritos</a>
+        </li>
+
+        <!-- Create a dropdown menu for Sesion -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="sesionDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Sesion
+          </a>
+          <div class="dropdown-menu" aria-labelledby="sesionDropdown">
+            <a class="dropdown-item" href="/login">Login</a>
+            <a class="dropdown-item" href="/register">Register</a>
+            <a class="dropdown-item" href="/api/sessions/logout">Logout</a>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+</nav>

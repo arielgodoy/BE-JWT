@@ -1,0 +1,27 @@
+### login de usuario
+post http://localhost:8080/api/sessions/login?username=arielgodoy@gmail.com&password=123456
+
+Content-Type: application/json
+
+{
+    "username": "arielgodoy@gmail.com",
+    "password": "123456"
+}
+
+### current
+get http://localhost:8080/api/sessions/current
+
+
+
+
+### post de register
+post http://localhost:8080/api/sessions/register
+Content-Type: application/json
+
+{
+    "first_name": "Godoy",        
+    "last_name":"Godoy",
+    "email": "arielgodoy@gmail.com",
+    "password": "123456"
+}
+

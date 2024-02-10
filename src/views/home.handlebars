@@ -1,0 +1,23 @@
+{{#if email}}
+  <p>Bienvenido, {{email}}.</p>
+{{else}}
+  <p>¡Hola, invitado! Inicia sesión para obtener una experiencia personalizada.</p>
+{{/if}}
+
+
+
+{{> menu}}
+{{> datatablesProducts }}
+
+<script>
+  var programa = "{{programa}}";
+  const isAdmin = {{admin}};
+  console.log(programa);
+</script>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/product.js"></script>
+
+
+
+

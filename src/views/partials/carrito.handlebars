@@ -1,0 +1,22 @@
+<!-- carrito.handlebars -->
+{{#if cartData}}
+    <p>ID del Carrito: {{cartData._doc._id}}</p>
+    <ul>
+        {{#each cartData._doc.products}}
+            <li>
+                <strong>Producto ID:</strong> {{this.productId}} |
+                <strong>Cantidad:</strong> {{this.quantity}} |
+                <strong>Item ID:</strong> {{this._id}}
+            </li>
+        {{/each}}
+    </ul>
+{{else}}
+    <p>No se encontraron datos del carrito.</p>
+{{/if}}
+<div class="."></div>
+
+<script>   
+    console.log("Productos del carrito:", {{{jsonStringify cartData._doc.products}}});
+</script>
+
+
