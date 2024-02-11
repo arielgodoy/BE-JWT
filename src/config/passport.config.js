@@ -2,11 +2,10 @@ const passport = require('passport');
 const local = require('passport-local');
 const { isValidPassword, createHash } = require('../utils/hashPassword');
 const UserDaoMongo = require('../dao/usersDaoMongo.js');
+const userservice = new UserDaoMongo()
 const localStrategy = local.Strategy
 const GithubStrategy = require('passport-github2').Strategy;
 
-
-const userservice = new UserDaoMongo();
 
 exports.initializePassport = () => {
   //estrategia de login con github
@@ -17,7 +16,7 @@ exports.initializePassport = () => {
   }, async (accessToken, refreshToken, profile, done)=> {
     try {
       //console.log(profile)
-      let user = await userservice.getUser({ email: profile._json.email })
+      let user = await userservice.getBy({ email: profile._json.email })
       if (user) {
         return done(null, user);
       }
@@ -40,14 +39,7 @@ exports.initializePassport = () => {
     }
     
   }
-));
-
-
-
-
-
-
-
+))
 
 passport.serializeUser((user, done) => {
   done(null, user._id);
@@ -55,7 +47,7 @@ passport.serializeUser((user, done) => {
 
 passport.deserializeUser(async (id, done) => {
   try {
-    const user = await userservice.getUser({ _id: id })
+    const user = await userservice.getBy({ _id: id })
     done(null, user);
   } catch (error) {
     done(error);

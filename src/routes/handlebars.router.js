@@ -7,7 +7,8 @@ const cartManager = new CartManager(); // Instantiate CartManager
 router
 .get("/products", (req, res) => {
     console.log('Renderizando .. /products..');
-    console.log(req.session.user);
+    console.log(req.session.user);    
+
     let username = 'Invitado';
     let email = 'Invitado';
     let admin = false;

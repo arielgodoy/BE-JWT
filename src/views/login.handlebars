@@ -45,35 +45,45 @@
 
 <script>
     async function submitLoginForm() {
-        const email = document.getElementById('email').value;
-        const password = document.getElementById('password').value;
+    const email = document.getElementById('email').value;
+    const password = document.getElementById('password').value;
 
-        try {
-            const response = await fetch('/api/sessions/login', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({ email, password }),
-            });
+    try {
+        const response = await fetch('/api/sessions/login', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ email, password }),
+        });
 
-            if (response.ok) {
-                // Redirect to /products handled by server-side route
-                window.location.href = '/products';
+        if (response.status === 200) {
+            // Redirect to /products handled by server-side route
+            window.location.href = '/products';
+        } else if (response.status === 401) {
+            // Unauthorized - user not found or invalid credentials
+            const errorData = await response.json();
+            if (errorData && errorData.error === 'user_not_found') {
+                alert('Usuario no encontrado. Por favor, verifique sus credenciales.');
             } else {
-                const errorData = await response.json();
                 alert(`Error: ${errorData.message}`);
             }
-        } catch (error) {
-            alert('Error inesperado... reintente',error);
+        } else {
+            // Other error status codes
+            alert('Error en el servidor. Por favor, reintente más tarde.');
         }
+    } catch (error) {
+        alert('Error inesperado... reintente',error);
     }
+}
 
-    function continueAsGuest() {        
-        // Redirect to /products handled by server-side route
-        window.location.href = '/products';
-    }
+function continueAsGuest() {        
+    // Redirect to /products handled by server-side route
+    window.location.href = '/products';
+}
+
 </script>
+
 
 <!-- Your existing HTML code -->
 

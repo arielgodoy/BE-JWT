@@ -41,6 +41,8 @@ app.use(express.static(path.join(__dirname, '/public')));
 initializePassport()
 app.use(session({
   secret: 'mipalabrasecreta',
+  resave: false,
+  saveUninitialized: false
 }))
 app.use(passport.initialize())
 app.use(passport.session())
